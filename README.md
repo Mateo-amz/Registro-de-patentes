@@ -9,6 +9,7 @@ El proyecto podrá ampliarse para incorporar características como registro de c
 
 (The objective of this project is an automatic registration of vehicle license plates, using AI for license plate and vehicle recognition. The results will be saved in a .csv file. This project can be updated to add some other feature, such as the number of vehicles.)
 
+
 ## Background
 
 Este proyecto pretende resolver los siguientes puntos:
@@ -24,7 +25,12 @@ Este proyecto pretende resolver los siguientes puntos:
 El sistema cuenta como mínimo con una computadora que analiza imágenes tomadas con una cámara de seguridad convencional.
 El procesamiento debe realizarse on-site.
 
-(This system uses a computer to read images from a camera. All image processing will be on site.)
+El código cuenta de dos funciones: main.py y util.py. Además, necesita de un video (mp4) para ser analizado y un modelo entrenado para reconocer las patentes correspondientes al video. Se incluye un pequeño modelo entrenado para patentes Argentinas, pero este modelo puede ser optimizado mediante un dataset más grande.
+El funcionamiento del programa se realiza ejecutando la función main.py (en mi caso, utilizando Visual Studio)
+
+(This system uses a computer to read images from a camera. All image processing will be on site.
+The code has two functions: main.py and util.py. In addition, it needs a video (mp4) to be analyzed and a trained model to recognize the patents corresponding to the video. A small model trained for Argentine patents is included, but this model can be optimized using a larger dataset.
+The operation of the program is done by executing the main.py function (in my case, using Visual Studio))
 
 ## Data sources and AI methods
 
