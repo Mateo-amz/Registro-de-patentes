@@ -62,6 +62,7 @@ Las fuentes de inspiración para este proyecto son la necesidad de dicho disposi
 Además, de lo anterior, las principales fuentes de información para la realización de este proyecto son:
 * github.com/computervisioneng/automatic-number-plate-recognition-python-yolov8
 * ultralytics.com
+* https://docs.ultralytics.com/es
 
 
 
