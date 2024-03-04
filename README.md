@@ -25,12 +25,14 @@ Este proyecto pretende resolver los siguientes puntos:
 El sistema cuenta como mínimo con una computadora que analiza imágenes tomadas con una cámara de seguridad convencional.
 El procesamiento debe realizarse on-site.
 
-El código cuenta de dos funciones: main.py y util.py. Además, necesita de un video (mp4) para ser analizado y un modelo entrenado para reconocer las patentes correspondientes al video. Se incluye un pequeño modelo entrenado para patentes Argentinas, pero este modelo puede ser optimizado mediante un dataset más grande.
+El código cuenta de dos funciones: main.py y util.py. Además, necesita de un video (mp4) para ser analizado y un modelo entrenado para reconocer las patentes correspondientes al video. Se incluye un pequeño modelo entrenado para patentes Argentinas, pero este modelo puede ser optimizado mediante un dataset más grande. Además, se requiere tener descargado el módulo "sort", el cual debe estár en una carpeta en la misma ubicación que las demás funciones y bajo el nombre "sort" (https://github.com/abewley/sort). Información más completa puede enocntrarse en las fuentes al final del README.
 El funcionamiento del programa se realiza ejecutando la función main.py (en mi caso, utilizando Visual Studio)
+
 
 (This system uses a computer to read images from a camera. All image processing will be on site.
 The code has two functions: main.py and util.py. In addition, it needs a video (mp4) to be analyzed and a trained model to recognize the patents corresponding to the video. A small model trained for Argentine patents is included, but this model can be optimized using a larger dataset.
-The operation of the program is done by executing the main.py function (in my case, using Visual Studio))
+The operation of the program is done by executing the main.py function (in my case, using Visual Studio)
+In addition, it is required to have the "sort" module downloaded, which must be in a folder in the same location as the other functions and under the name "sort" (https://github.com/abewley/sort). More complete information can be found in the sources at the end of the README.)
 
 ## Data sources and AI methods
 
