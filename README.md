@@ -49,6 +49,13 @@ A futuro, se propone incorporar más posibilidades bajo la misma plataforma, com
 
 Las fuentes de inspiración para este proyecto son la necesidad de dicho dispositivo en la empresa donde trabajo, la curiosidad por las nuevas posibilidades que brinda la IA, y los conocimientos adquiridos tanto en el cursado de Building AI como en el curso denominado "IA aplicado a la ingenieria usando Python" dictado en la Universidad Nacional de Misiones por el Dr. Matías Krujoski e ing. Axel Skrauba.
 
+(The sources of inspiration for this project are the need for said device in the company where I work, the curiosity about the new possibilities that AI offers, and the knowledge acquired both in the Building AI course and in the course called "AI applied to engineering using Python" taught at the National University of Misiones by Dr. Matías Krujoski and ing. Axel Skrauba.)
+
+Además, de lo anterior, las principales fuentes de información para la realización de este proyecto son:
+* github.com/computervisioneng/automatic-number-plate-recognition-python-yolov8
+* ultralytics.com
+
+
 
 
 
